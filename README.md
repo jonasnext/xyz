@@ -1,1 +1,1 @@
-# xyz
+# ![xyz](img/xyz.svg)
